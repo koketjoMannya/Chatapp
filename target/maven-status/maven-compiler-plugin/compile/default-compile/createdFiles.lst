@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 com\chatapp\Message.class
+=======
+>>>>>>> 71497bf3b3dc637d47af196fa169514240cc9bb4
 com\chatapp\ChatApp.class
 com\chatapp\User.class
 com\chatapp\Login.class

@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 -------------------------------------------------------------------------------
 Test set: com.chatapp.LoginTest
 -------------------------------------------------------------------------------
 Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.184 s -- in com.chatapp.LoginTest
+=======
+-------------------------------------------------------------------------------
+Test set: com.chatapp.LoginTest
+-------------------------------------------------------------------------------
+Tests run: 26, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.346 s -- in com.chatapp.LoginTest
+>>>>>>> 71497bf3b3dc637d47af196fa169514240cc9bb4
